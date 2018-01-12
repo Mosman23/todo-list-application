@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Before run all tests, run the application first
+mvn clean verify -Punit.test -Pacceptance.test

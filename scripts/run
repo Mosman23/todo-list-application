@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mvn clean -pl todo-list-application spring-boot:run
