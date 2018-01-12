@@ -1,4 +1,3 @@
-[![CircleCI](https://circleci.com/bb/mohamedhabib23/todo-list-application/tree/master.svg?style=svg)](https://circleci.com/bb/mohamedhabib23/todo-list-application/tree/master)
 
 # Todo List Simple Application
 
@@ -38,7 +37,3 @@
 * To run the application. Execute `./scripts/run` then check `http://localhost:8080/swagger-ui.html`
 * To run the acceptance tests. Execute `./scripts/ats`
 
-
-
-
-root/QnbgtELYLdzygC4w
